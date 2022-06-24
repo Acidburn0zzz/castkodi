@@ -45,7 +45,7 @@
         "esm": "^3.2.25",
         "htmlhint": "^0.11.0",
         "jsdoc": "^3.6.3",
-        "jsdom": "^15.1.1",
+        "jsdom": "^16.5.0",
         "jsonlint": "^1.6.3",
         "markdownlint": "^0.16.0",
         "metalint": "^0.8.4",
